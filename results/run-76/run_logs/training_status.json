@@ -1,0 +1,56 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 49911,
+                "file_path": "results\\run-76\\My Behavior\\My Behavior-49911.onnx",
+                "reward": -9.557627901528031,
+                "creation_time": 1669214121.9356108,
+                "auxillary_file_paths": [
+                    "results\\run-76\\My Behavior\\My Behavior-49911.pt"
+                ]
+            },
+            {
+                "steps": 99974,
+                "file_path": "results\\run-76\\My Behavior\\My Behavior-99974.onnx",
+                "reward": -12.323544570012018,
+                "creation_time": 1669214261.2314339,
+                "auxillary_file_paths": [
+                    "results\\run-76\\My Behavior\\My Behavior-99974.pt"
+                ]
+            },
+            {
+                "steps": 149887,
+                "file_path": "results\\run-76\\My Behavior\\My Behavior-149887.onnx",
+                "reward": -9.338177880196262,
+                "creation_time": 1669214376.488685,
+                "auxillary_file_paths": [
+                    "results\\run-76\\My Behavior\\My Behavior-149887.pt"
+                ]
+            },
+            {
+                "steps": 196738,
+                "file_path": "results\\run-76\\My Behavior\\My Behavior-196738.onnx",
+                "reward": null,
+                "creation_time": 1669214494.6859088,
+                "auxillary_file_paths": [
+                    "results\\run-76\\My Behavior\\My Behavior-196738.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 196738,
+            "file_path": "results\\run-76\\My Behavior.onnx",
+            "reward": null,
+            "creation_time": 1669214494.6859088,
+            "auxillary_file_paths": [
+                "results\\run-76\\My Behavior\\My Behavior-196738.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cpu"
+    }
+}

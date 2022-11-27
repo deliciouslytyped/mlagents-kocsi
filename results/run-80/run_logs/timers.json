@@ -1,0 +1,54 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1669299114",
+        "python_version": "3.7.12 | packaged by conda-forge | (default, Oct 26 2021, 05:35:01) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\Lenovo\\miniconda3\\envs\\working\\Scripts\\mlagents-learn --width=800 --height=600 --run-id=run-80 --resume --env=C:\\Users\\Lenovo\\Desktop\\Csani\\rl\\kocsi\\builds\\kocsi",
+        "mlagents_version": "0.28.0",
+        "mlagents_envs_version": "0.28.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cpu",
+        "numpy_version": "1.21.6",
+        "end_time_seconds": "1669299122"
+    },
+    "total": 7.6042404,
+    "count": 1,
+    "self": 0.4843439000000007,
+    "children": {
+        "run_training.setup": {
+            "total": 0.19662460000000026,
+            "count": 1,
+            "self": 0.19662460000000026
+        },
+        "TrainerController.start_learning": {
+            "total": 6.9232719,
+            "count": 1,
+            "self": 0.00019089999999799545,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 6.837536200000001,
+                    "count": 1,
+                    "self": 6.837536200000001
+                },
+                "trainer_threads": {
+                    "total": 1.4000000003733248e-06,
+                    "count": 1,
+                    "self": 1.4000000003733248e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 0.0855434000000006,
+                    "count": 1,
+                    "self": 0.007753500000001523,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.07778989999999908,
+                            "count": 1,
+                            "self": 0.07778989999999908
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

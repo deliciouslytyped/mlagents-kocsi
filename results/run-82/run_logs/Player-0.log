@@ -1,0 +1,681 @@
+Mono path[0] = 'C:/Users/Lenovo/Desktop/Csani/rl/kocsi/builds/kocsi_Data/Managed'
+Mono config path = 'C:/Users/Lenovo/Desktop/Csani/rl/kocsi/builds/MonoBleedingEdge/etc'
+Initialize engine version: 2022.1.17f1 (2d349551e475)
+[Subsystems] Discovering subsystems at path C:/Users/Lenovo/Desktop/Csani/rl/kocsi/builds/kocsi_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     4064 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.270 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.798700 ms
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-30
+-30
+-30
+-30
+-30
+-30
+-30
+-30
+-30
+-29.97211
+-30
+-30
+-29.70194
+-30
+-30
+-30
+-29.99975
+-30
+-30
+-30
+-30
+-29.95165
+-29.78587
+-29.92916
+-29.3602
+-29.96292
+-29.84347
+-30
+-29.28481
+-29.9646
+-30
+-29.88437
+-30
+-30
+-29.12597
+-29.92341
+-28.95431
+-30
+-30
+-29.54899
+-30
+-29.88666
+-29.9391
+-30
+-30
+-30
+-29.95273
+-30
+-30
+-30
+1.968722
+2.042076
+-6.649653E-08
+0.09920265
+1.72296
+-6.649653E-08
+1.898281
+1.947251
+-30
+-30
+-29.98818
+-29.94007
+-30
+-29.98299
+-30
+-30
+-29.78253
+1.106858
+-29.653
+0.6343738
+-28.95161
+-30
+-30
+-29.80356
+-30
+-29.87364
+-29.94558
+-30
+0.007562852
+-30
+-30
+-29.90754
+-30
+-30
+-30
+-6.649653E-08
+-29.01302
+-29.94646
+-29.93603
+-29.92536
+-30
+-30
+-30
+-30
+-30
+-29.9233
+-30
+-6.649653E-08
+-29.84293
+-30
+0.1277664
+-30
+-30
+-30
+0.4933387
+-30
+-30
+-29.67755
+-29.96459
+-30
+-29.93867
+-30
+-29.44054
+-30
+-30
+-30
+-6.649653E-08
+-28.70631
+-30
+-29.97362
+-30
+-30
+-6.649653E-08
+-30
+-29.61835
+-29.66024
+-30
+-30
+-6.649653E-08
+-29.94916
+-30
+-6.649653E-08
+-29.97327
+-30
+-30
+-30
+-30
+-28.62892
+-29.53974
+-30
+-30
+-29.8657
+-29.76992
+-29.27058
+-29.95571
+-30
+-28.93688
+-30
+-29.92397
+-29.20858
+-30
+-29.91074
+-30
+-29.94817
+-30
+-6.649653E-08
+-30
+0.00559677
+-29.78447
+-30
+-30
+-30
+1.843001
+1.910427
+-30
+-30
+-30
+-29.76593
+-6.649653E-08
+-29.99443
+-29.09306
+-30
+-6.649653E-08
+-30
+-6.649653E-08
+-30
+-30
+-30
+-30
+-29.93062
+-29.8437
+-29.95506
+-30
+-6.649653E-08
+-30
+0.1053721
+-29.90534
+0.1153228
+-30
+-29.02823
+-29.40218
+-29.45741
+-29.16904
+1.577469
+-30
+-29.13826
+-30
+-30
+0.02214514
+1.285702
+-30
+-30
+-30
+-29.99836
+-29.70804
+-30
+-30
+0.8651792
+-6.649653E-08
+-29.61436
+-29.913
+-29.95128
+-30
+1.414282
+-29.77258
+-30
+-30
+-29.96676
+-30
+1.632194
+1.893646
+-30
+-6.649653E-08
+-30
+-30
+-29.19166
+-30
+-30
+-29.86126
+-29.94845
+-30
+-29.93348
+-29.96423
+-30
+-30
+-29.99146
+12.05817
+-30
+-29.79647
+-30
+-30
+-6.649653E-08
+-30
+-30
+-30
+-28.62055
+-29.91454
+-30
+-29.92556
+-29.10616
+-29.81693
+-29.29781
+-30
+-28.51185
+0.6818334
+-6.649653E-08
+-6.649653E-08
+-29.79087
+-29.55044
+-30
+-28.58967
+-30
+-30
+-30
+-30
+-29.63725
+-28.8533
+1.439139
+0.1118168
+1.061373
+0.8010249
+-30
+-30
+-29.11
+-30
+-29.97934
+-29.99965
+-29.94886
+-29.92147
+-30
+-30
+-30
+-30
+-29.99173
+1.697894
+-30
+-29.82988
+-6.649653E-08
+1.748796
+1.696627
+0.03367679
+-30
+-29.80818
+-28.67011
+-30
+-29.25187
+-29.98594
+-6.649653E-08
+-30
+0.3088018
+-29.5587
+-29.98824
+-30
+-30
+-30
+-29.99994
+0.002796458
+-29.72746
+0.9398966
+-28.71796
+0.02965307
+-30
+-30
+-30
+-30
+-30
+-30
+1.371419
+-30
+-29.966
+-29.93994
+-30
+-30
+-6.649653E-08
+-29.41056
+-28.19464
+-30
+-30
+-30
+-30
+-29.67095
+-6.649653E-08
+-29.91759
+-29.97885
+-29.72474
+-30
+-29.99854
+-30
+-29.70382
+1.601788
+-30
+-30
+-29.40392
+-29.94917
+-30
+-30
+-6.649653E-08
+1.170848
+-29.50288
+-28.6966
+-6.649653E-08
+-6.649653E-08
+-30
+-30
+-30
+-30
+1.19243
+1.781816
+1.037579
+0.1022403
+-30
+-29.80243
+-6.649653E-08
+-30
+-30
+1.399532
+-30
+1.751178
+-30
+-29.9124
+-6.649653E-08
+-29.82501
+-30
+-29.975
+-30
+-30
+1.637576
+-6.649653E-08
+0.05397169
+1.284763
+-30
+-6.649653E-08
+-30
+-28.90034
+0.09339581
+-29.87033
+-28.50247
+-6.649653E-08
+-29.9386
+-30
+0.09304857
+-30
+-29.928
+-29.82851
+-28.52438
+-30
+-6.649653E-08
+-28.24063
+-28.98462
+0.08644681
+1.883013
+-29.99563
+-29.9187
+-28.99637
+Setting up 2 worker threads for Enlighten.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 240 frames, [8.0 KB-16.0 KB]: 24 frames, [16.0 KB-32.0 KB]: 33 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.1 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 128 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 93.3 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 24.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 2
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 3
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 24.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 24.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 147
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.4 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 163 frames, [16.0 MB-32.0 MB]: 135 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 16.9 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 298 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.7 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 2
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 3
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 1
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.4 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 297 frames, [2.0 MB-4.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 2 frames, [2.0 MB-4.0 MB]: 296 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.4 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.4 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 298 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.4 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 297 frames, [2.0 MB-4.0 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.8 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.4 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 298 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.0 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [0-1.0 KB]: 298 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 0
+      Peak Allocated memory 0 B
+      Peak Large allocation bytes 0 B
